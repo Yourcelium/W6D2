@@ -1,0 +1,44 @@
+/* PHASE 9: Forms */
+textarea {
+  border: 1px black solid;
+}
+
+.content-main {
+  display: flex;
+  flex-direction: row;
+  padding: 19px;
+  width: 500px;
+  margin: 0 0 0 20px;
+}
+
+.cancel-button {
+  font-weight: bold;
+}
+
+.submit-button {
+  background-color: #0c0;
+  color: white;
+  width: 120px;
+  padding: 10px;
+  
+  
+  }
+  
+.post-form {
+  background-color: #eee;
+  width: 500px;
+  margin: 0 0 0 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.post label {
+  display: flex;
+  flex-direction: column;
+}
+
+.end-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: 
+}
